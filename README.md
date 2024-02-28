@@ -1,6 +1,5 @@
 
 Hi there 👋
-<!--
 **[sidddev15]** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here's a bit about me:
@@ -15,4 +14,3 @@ Here's a bit about me:
 - LinkedIn: [https://www.linkedin.com/in/siddharth1599/]
 
 🌐 **Portfolio Website:** [Loading....]
--->
