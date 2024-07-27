@@ -12,4 +12,4 @@ Here's a bit about me:
 🔗 **Social Links:**
 - LinkedIn: [https://www.linkedin.com/in/siddharth1599/]
 
-🌐 **Portfolio Website:** [Loading....]
+🌐 **Portfolio Website:** [https://sidddev15.github.io/portfolio-website/]
