@@ -1,15 +1,13 @@
+# 👋 Hi there!
 
-Hi there 👋
+## Here's a glimpse of me:
 
-Here's a bit about me:
+- 🔭 **Currently working** as a Senior Software Developer, building scalable web applications.  
+- 🌱 **Exploring** RPA, diving deeper into Angular, and enhancing my automation skills.  
+- 💼 **Experience:** Over two years in frontend development, specializing in Angular and React.  
+- 🚀 **Passionate about:** Crafting seamless user experiences and learning new technologies like Next.js and Python.  
+- 🌟 Let’s innovate and create something impactful together! 💻🎨  
 
-- 🔭 Currently working on mastering HTML, CSS, JS, and diving deeper into React.
-- 🌱 Learning Next.js, and gearing up for Angular.
-- 💼 Two years of frontend development experience.
-- 🚀 Excited to explore Java and Android development.
-- 🌟 Let's code something awesome together! 💻🎨🚀
-
-🔗 **Social Links:**
-- LinkedIn: [https://www.linkedin.com/in/siddharth1599/]
-
-🌐 **Portfolio Website:** [https://sidddev15.github.io/portfolio-website/]
+## 🔗 Social Links:
+- 💼 [LinkedIn](https://www.linkedin.com/in/siddharth1599/)  
+- 🌐 [Portfolio](https://sidddev15.github.io/portfolio-website/)  
