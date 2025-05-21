@@ -1,64 +1,109 @@
-# 👋 Hi, I'm Siddharth Singh — Let’s Build the Future, One Line of Code at a Time!
+# 👋 Hi, I'm Siddharth Singh 
 
-🔧 **Senior Software Developer**  
-💻 **Frontend Expert | Backend Explorer | System Design Enthusiast**  
+🔧 **Senior Software Developer & Reporting Manager**  
+💻 Frontend Expert | Backend Explorer | System Design Enthusiast  
+📍 India
 
 ---
 
 ## 🚀 About Me
 
-I’m a tech enthusiast with over **4 years of experience** developing **scalable, performant web applications**. My day-to-day stack is packed with **Angular**, **React**, **JavaScript**, **Node.js**, and everything in between. I thrive on crafting smooth, seamless, and pixel-perfect user experiences.
+I'm a passionate software developer with over **4 years of experience** crafting scalable, performant web applications and hybrid apps. Currently leading projects and mentoring junior devs at **Tech Mahindra**, I'm knee-deep in frameworks like **Angular 16+, React 18+, Node.js**, and am actively diving into **backend mastery with Java & Spring Boot**.
 
-I'm currently on a mission to **master backend development**, diving deeper into **Java**, **Spring Boot**, **system architecture**, and **low-level design (LLD)** — the realm where compilers, VMs, kernels, and scalable systems live. 🔍
-
----
-
-## 🛠️ What I Bring to the Table
-
-- ⚡ Building hybrid apps (like Samsung TV plugins) with Angular + SCSS
-- 🌐 Frontend Mastery: Angular 16+, React 18+, HTML5, CSS3, TypeScript
-- 🔙 Backend Chops: Node.js, Express.js, REST APIs, and Java (OOP, Collections, File I/O)
-- 🧠 Deep interest in Low-Level Design: compilers, OS kernels, and performance tuning
-- 🗃️ Databases: MongoDB, MySQL
-- 🛠️ Toolchain: Git, GitHub, Postman, Webpack, Vite, Maven, Gradle
-- 🧪 Testing: Jest
+I thrive at the intersection of **user experience and technical excellence**, with a growing obsession for **Low-Level Design, System Architecture, and OS-level engineering** (kernels, VMs, compilers — you name it 🔥).
 
 ---
 
-## 🌱 Currently Exploring
+## 🔭 I’m currently working on:
+- **AniX Animation Library** — [An Open Source Animation Library for Angular, React & JS]([https://github.com/Sidddev15](https://github.com/Sidddev15/Anix))
 
-- ⚙️ **Backend Mastery** – Java, Spring Boot, scalable APIs
-- 📦 **System Design & LLD** – kernels, web servers, compilers, and distributed systems
+## 👯 I’m looking to collaborate on:
+- **AniX**, **Open Source UI Libraries**, **Scalable Backend Systems**
+
+## 🤝 I’m looking for help with:
+- **LLD Concepts**, **Distributed System Design**, **Compiler Design**
+
+## 🌱 I’m currently learning:
+- **Java & Spring Boot**
+- **System Design & LLD**
+- **Scalable Backend APIs**
+- **Building OS Kernels & Compilers**
+
+## 💬 Ask me about:
+- **Angular**, **React**, **GSAP**, **Node.js**, **System Design**, **Animations**
+
+## 📫 How to reach me:
+- 📧 siddharth.sr.dev@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/siddharth1599/)
+- 🧠 [Medium Blog](https://siddsr0015.medium.com)
+- 👨‍💻 [GitHub](https://github.com/Sidddev15)
+
+## 👨‍💻 All of my projects are available at:
+- 🌐 [Portfolio (Coming Soon)](https://olympus.mygreatlearning.com/eportfolio?pb_id=14229)
+
+## 📝 I regularly write articles on:
+- 🧠 [Medium](https://siddsr0015.medium.com)
+
+## 📄 Know about my experiences:
+- 📎 [Resume Link](mailto:siddharth.sr.dev@gmail.com?subject=Request%20Resume)
+
+## ⚡ Fun fact:
+I think I’m funny… until the compiler tells me otherwise 😄
 
 ---
 
-## ✨ Projects I Recently Worked On
+## 🛠️ Skills
 
-- **Samsung TV Plugin** – Hybrid Angular app for Samsung TVs, optimized for 20+ devices
-- **AniX** – A developer-friendly animation library for Angular, React, and Vanilla JS
+### 👨‍💻 Programming Languages
+`JavaScript` `TypeScript` `Java` `C` `C++` `Python`
+
+### 💻 Frontend Development
+`Angular 16+` `React 18+` `Knockout.js` `TailwindCSS` `SCSS` `Less` `jQuery` `HTML5` `CSS3`
+
+### 🔙 Backend Development
+`Node.js` `Express.js` `Spring Boot` `REST API` `GraphQL` `Java OOP`
+
+### 🧠 System Design & Low-Level Concepts
+`LLD` `Compiler Design` `OS Kernel Basics` `Performance Tuning`
+
+### 🧪 Testing & QA
+`Jest` `Postman`
+
+### 🗃️ Database
+`MongoDB` `MySQL`
+
+### 🚀 Build Tools
+`Webpack` `Vite` `npm` `yarn` `Maven` `Gradle`
+
+### ⚙️ DevOps & Tools
+`Git` `GitHub` `VS Code`
 
 ---
 
-## 📚 Education & Specialization
+## 📚 Recent Projects
 
-🎓 B.Tech in Computer Science – JSS Academy, Noida  
-🏅 Full Stack Specialization – EICT Academy, IIT Roorkee
+### 🎮 Samsung TV Plugin – Angular + SCSS
+Built a hybrid app plugin for Samsung TVs. Reduced load times by 50% and optimized for 20+ devices.
 
----
+### ⚡ AniX – Animation Library
+Developer-friendly animation library for Angular, React, and JS. Supports button effects to full-page transitions.
 
-## 🔗 Connect with Me
-
-- [💼 LinkedIn](https://www.linkedin.com/in/siddharth1599/)
-- [🧠 Medium Blog](https://siddsr0015.medium.com/)
-- [👨‍💻 GitHub](https://github.com/Sidddev15)
-
-*(Portfolio currently under revamp — stay tuned!)*
+### 💼 Job Portal App – Clone of Naukri.com
+Features: Resume uploads, Recruiter/Seeker roles, Email notifications, Admin moderation panel.
 
 ---
 
 ## 🌟 Vision Ahead
 
-I’m building towards a future where I don’t just *use* systems — I *design* them.  
-From **animation libraries** to **OS-level engineering**, my goal is to innovate at every level of the stack.
+I’m building toward a future where I don’t just use systems — **I design them**.  
+From dev tools and UI libraries to backend architecture and operating system internals, my mission is to **innovate across the full stack**.
 
-Let’s collaborate, innovate, and build something impactful. The best is yet to come! 🚀
+Let’s collaborate. Let’s innovate.  
+**The best is yet to come 🚀**
+
+---
+
+<!-- GitHub Stats (optional) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sidddev15&show_icons=true&theme=radical" alt="Siddharth's GitHub Stats" />
+</p>
