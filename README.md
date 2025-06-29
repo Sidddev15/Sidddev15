@@ -39,7 +39,7 @@ I thrive at the intersection of **user experience and technical excellence**, wi
 - 👨‍💻 [GitHub](https://github.com/Sidddev15)
 
 ## 👨‍💻 All of my projects are available at:
-- 🌐 [Portfolio (Coming Soon)](https://olympus.mygreatlearning.com/eportfolio?pb_id=14229)
+- 🌐 [Portfolio](https://sidddev15.github.io/portfolio-frontend/)
 
 ## 📝 I regularly write articles on:
 - 🧠 [Medium](https://siddsr0015.medium.com)
